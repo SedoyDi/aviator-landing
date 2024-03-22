@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.224f48ab.css",
-    "main.js": "/static/js/main.dd1bb016.js",
+    "main.css": "/static/css/main.b04bdfa5.css",
+    "main.js": "/static/js/main.3ea698fe.js",
     "static/media/videoMp4.mp4": "/static/media/videoMp4.c29d462501f8d0c2b1ea.mp4",
-    "static/media/bg.svg": "/static/media/bg.1574dc3b2d739c3a940e.svg",
+    "static/media/bg.svg": "/static/media/bg.29830f7a864d877e21b2.svg",
     "static/media/frame.png": "/static/media/frame.2f1ce93e230da9a0efd1.png",
-    "static/media/coin 4.svg": "/static/media/coin 4.461cfdddfe8b2df9cf8409f919ade0ee.svg",
-    "static/media/coin 3.svg": "/static/media/coin 3.6dd5617fea946df73e4d5bf001c28eee.svg",
-    "static/media/coin 1.svg": "/static/media/coin 1.7fe858a35559b5bec2e08a1301f9070a.svg",
-    "static/media/coin 2.svg": "/static/media/coin 2.3d645e6fc793a583c73ddcc7024ce12b.svg",
-    "static/media/aviator.svg": "/static/media/aviator.397421da9a4b97b3915ec178794ed5ba.svg",
+    "static/media/coin 4.svg": "/static/media/coin 4.aef0d5c8f50d77bbcbb17e3e181eed18.svg",
+    "static/media/coin 3.svg": "/static/media/coin 3.6e33cf56afd7d4ad0d8e6f933718052b.svg",
+    "static/media/coin 1.svg": "/static/media/coin 1.6c01ae1c9f515cf08c25af4c87938e7e.svg",
+    "static/media/coin 2.svg": "/static/media/coin 2.99d8ff3063412b232477aea4eaaa751d.svg",
+    "static/media/aviator.svg": "/static/media/aviator.7a134da5c93e3b6fe4eb39fe11fc5d60.svg",
     "index.html": "/index.html",
-    "main.224f48ab.css.map": "/static/css/main.224f48ab.css.map",
-    "main.dd1bb016.js.map": "/static/js/main.dd1bb016.js.map"
+    "main.b04bdfa5.css.map": "/static/css/main.b04bdfa5.css.map",
+    "main.3ea698fe.js.map": "/static/js/main.3ea698fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.224f48ab.css",
-    "static/js/main.dd1bb016.js"
+    "static/css/main.b04bdfa5.css",
+    "static/js/main.3ea698fe.js"
   ]
 }
